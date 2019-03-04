@@ -1,0 +1,513 @@
+Run number: 1
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0090 seconds
+int ArrayList - wall clock:    0000.0390 seconds
+
+int array - CPU time:          0000.0390 seconds
+int ArrayList - CPU time:      0000.0286 seconds
+
+float array - wall clock:      0000.0030 seconds
+float ArrayList - wall clock:  0000.0110 seconds
+
+float array - CPU time:        0000.0021 seconds
+float ArrayList - CPU time:    0000.0086 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0070 seconds
+int ArrayList - wall clock:    0000.0330 seconds
+
+int array - CPU time:          0000.0071 seconds
+int ArrayList - CPU time:      0000.0293 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0130 seconds
+
+float array - CPU time:        0000.0019 seconds
+float ArrayList - CPU time:    0000.0120 seconds
+
+Run number: 2
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0040 seconds
+int ArrayList - wall clock:    0000.0080 seconds
+
+int array - CPU time:          0000.0080 seconds
+int ArrayList - CPU time:      0000.0075 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0040 seconds
+
+float array - CPU time:        0000.0015 seconds
+float ArrayList - CPU time:    0000.0030 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0170 seconds
+
+int array - CPU time:          0000.0023 seconds
+int ArrayList - CPU time:      0000.0132 seconds
+
+float array - wall clock:      0000.0060 seconds
+float ArrayList - wall clock:  0000.0140 seconds
+
+float array - CPU time:        0000.0020 seconds
+float ArrayList - CPU time:    0000.0050 seconds
+
+Run number: 3
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0080 seconds
+
+int array - CPU time:          0000.0080 seconds
+int ArrayList - CPU time:      0000.0065 seconds
+
+float array - wall clock:      0000.0040 seconds
+float ArrayList - wall clock:  0000.0250 seconds
+
+float array - CPU time:        0000.0020 seconds
+float ArrayList - CPU time:    0000.0059 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0160 seconds
+
+int array - CPU time:          0000.0015 seconds
+int ArrayList - CPU time:      0000.0134 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0120 seconds
+
+float array - CPU time:        0000.0020 seconds
+float ArrayList - CPU time:    0000.0116 seconds
+
+Run number: 1
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0050 seconds
+int ArrayList - wall clock:    0000.0150 seconds
+
+int array - CPU time:          0000.0150 seconds
+int ArrayList - CPU time:      0000.0146 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0060 seconds
+
+float array - CPU time:        0000.0013 seconds
+float ArrayList - CPU time:    0000.0051 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0040 seconds
+int ArrayList - wall clock:    0000.0220 seconds
+
+int array - CPU time:          0000.0044 seconds
+int ArrayList - CPU time:      0000.0215 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0100 seconds
+
+float array - CPU time:        0000.0013 seconds
+float ArrayList - CPU time:    0000.0092 seconds
+
+Run number: 2
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0010 seconds
+int ArrayList - wall clock:    0000.0050 seconds
+
+int array - CPU time:          0000.0050 seconds
+int ArrayList - CPU time:      0000.0051 seconds
+
+float array - wall clock:      0000.0010 seconds
+float ArrayList - wall clock:  0000.0030 seconds
+
+float array - CPU time:        0000.0013 seconds
+float ArrayList - CPU time:    0000.0032 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0140 seconds
+
+int array - CPU time:          0000.0023 seconds
+int ArrayList - CPU time:      0000.0136 seconds
+
+float array - wall clock:      0000.0010 seconds
+float ArrayList - wall clock:  0000.0040 seconds
+
+float array - CPU time:        0000.0013 seconds
+float ArrayList - CPU time:    0000.0044 seconds
+
+Run number: 3
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0070 seconds
+
+int array - CPU time:          0000.0070 seconds
+int ArrayList - CPU time:      0000.0072 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0080 seconds
+
+float array - CPU time:        0000.0015 seconds
+float ArrayList - CPU time:    0000.0084 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0010 seconds
+int ArrayList - wall clock:    0000.0100 seconds
+
+int array - CPU time:          0000.0012 seconds
+int ArrayList - CPU time:      0000.0104 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0100 seconds
+
+float array - CPU time:        0000.0018 seconds
+float ArrayList - CPU time:    0000.0099 seconds
+
+Run number: 1
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0070 seconds
+int ArrayList - wall clock:    0000.0190 seconds
+
+int array - CPU time:          0000.0190 seconds
+int ArrayList - CPU time:      0000.0188 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0070 seconds
+
+float array - CPU time:        0000.0016 seconds
+float ArrayList - CPU time:    0000.0060 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0070 seconds
+int ArrayList - wall clock:    0000.0360 seconds
+
+int array - CPU time:          0000.0058 seconds
+int ArrayList - CPU time:      0000.0273 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0150 seconds
+
+float array - CPU time:        0000.0021 seconds
+float ArrayList - CPU time:    0000.0120 seconds
+
+Run number: 2
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0030 seconds
+int ArrayList - wall clock:    0000.0090 seconds
+
+int array - CPU time:          0000.0090 seconds
+int ArrayList - CPU time:      0000.0070 seconds
+
+float array - wall clock:      0000.0030 seconds
+float ArrayList - wall clock:  0000.0030 seconds
+
+float array - CPU time:        0000.0019 seconds
+float ArrayList - CPU time:    0000.0027 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0230 seconds
+
+int array - CPU time:          0000.0024 seconds
+int ArrayList - CPU time:      0000.0132 seconds
+
+float array - wall clock:      0000.0030 seconds
+float ArrayList - wall clock:  0000.0160 seconds
+
+float array - CPU time:        0000.0020 seconds
+float ArrayList - CPU time:    0000.0122 seconds
+
+Run number: 3
+Fill the list: Number of elements: 100,000
+int array - wall clock:        0000.0010 seconds
+int ArrayList - wall clock:    0000.0070 seconds
+
+int array - CPU time:          0000.0070 seconds
+int ArrayList - CPU time:      0000.0069 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0130 seconds
+
+float array - CPU time:        0000.0020 seconds
+float ArrayList - CPU time:    0000.0120 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0020 seconds
+int ArrayList - wall clock:    0000.0120 seconds
+
+int array - CPU time:          0000.0012 seconds
+int ArrayList - CPU time:      0000.0120 seconds
+
+float array - wall clock:      0000.0020 seconds
+float ArrayList - wall clock:  0000.0110 seconds
+
+float array - CPU time:        0000.0019 seconds
+float ArrayList - CPU time:    0000.0112 seconds
+
+Run number: 1
+Fill the list: Number of elements: 30000000
+int array - wall clock:        0000.3460 seconds
+int ArrayList - wall clock:    0011.9870 seconds
+
+int array - CPU time:          0011.9870 seconds
+int ArrayList - CPU time:      0000.4439 seconds
+
+float array - wall clock:      0000.3480 seconds
+float ArrayList - wall clock:  0008.6800 seconds
+
+float array - CPU time:        0000.3430 seconds
+float ArrayList - CPU time:    0000.3786 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.3410 seconds
+int ArrayList - wall clock:    0008.0480 seconds
+
+int array - CPU time:          0000.3397 seconds
+int ArrayList - CPU time:      0000.5378 seconds
+
+float array - wall clock:      0000.3730 seconds
+float ArrayList - wall clock:  0011.4310 seconds
+
+float array - CPU time:        0000.3650 seconds
+float ArrayList - CPU time:    0000.5267 seconds
+
+Run number: 2
+Fill the list: Number of elements: 30000000
+int array - wall clock:        0000.3640 seconds
+int ArrayList - wall clock:    0002.1340 seconds
+
+int array - CPU time:          0002.1340 seconds
+int ArrayList - CPU time:      0000.4174 seconds
+
+float array - wall clock:      0000.3400 seconds
+float ArrayList - wall clock:  0001.6760 seconds
+
+float array - CPU time:        0000.3385 seconds
+float ArrayList - CPU time:    0000.3909 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.3320 seconds
+int ArrayList - wall clock:    0008.9670 seconds
+
+int array - CPU time:          0000.3297 seconds
+int ArrayList - CPU time:      0000.5529 seconds
+
+float array - wall clock:      0000.3470 seconds
+float ArrayList - wall clock:  0010.9450 seconds
+
+float array - CPU time:        0000.3395 seconds
+float ArrayList - CPU time:    0000.5326 seconds
+
+Run number: 3
+Fill the list: Number of elements: 30000000
+int array - wall clock:        0000.3340 seconds
+int ArrayList - wall clock:    0002.0620 seconds
+
+int array - CPU time:          0002.0620 seconds
+int ArrayList - CPU time:      0000.5166 seconds
+
+float array - wall clock:      0000.3440 seconds
+float ArrayList - wall clock:  0001.7230 seconds
+
+float array - CPU time:        0000.3395 seconds
+float ArrayList - CPU time:    0000.4499 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.3430 seconds
+int ArrayList - wall clock:    0003.7840 seconds
+
+int array - CPU time:          0000.3364 seconds
+int ArrayList - CPU time:      0000.5839 seconds
+
+float array - wall clock:      0000.3650 seconds
+float ArrayList - wall clock:  0008.0310 seconds
+
+float array - CPU time:        0000.3599 seconds
+float ArrayList - CPU time:    0000.5261 seconds
+
+Run number: 4
+Fill the list: Number of elements: 30000000
+int array - wall clock:        0000.3350 seconds
+int ArrayList - wall clock:    0001.7980 seconds
+
+int array - CPU time:          0001.7980 seconds
+int ArrayList - CPU time:      0000.4042 seconds
+
+float array - wall clock:      0000.3270 seconds
+float ArrayList - wall clock:  0001.3890 seconds
+
+float array - CPU time:        0000.3254 seconds
+float ArrayList - CPU time:    0000.3821 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.3280 seconds
+int ArrayList - wall clock:    0003.1080 seconds
+
+int array - CPU time:          0000.3269 seconds
+int ArrayList - CPU time:      0000.5426 seconds
+
+float array - wall clock:      0000.3290 seconds
+float ArrayList - wall clock:  0010.2160 seconds
+
+float array - CPU time:        0000.3286 seconds
+float ArrayList - CPU time:    0000.4480 seconds
+
+Run number: 5
+Fill the list: Number of elements: 30000000
+int array - wall clock:        0000.3940 seconds
+int ArrayList - wall clock:    0007.6370 seconds
+
+int array - CPU time:          0007.6370 seconds
+int ArrayList - CPU time:      0000.3849 seconds
+
+float array - wall clock:      0000.3300 seconds
+float ArrayList - wall clock:  0002.1610 seconds
+
+float array - CPU time:        0000.3282 seconds
+float ArrayList - CPU time:    0000.3762 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.3350 seconds
+int ArrayList - wall clock:    0003.9080 seconds
+
+int array - CPU time:          0000.3275 seconds
+int ArrayList - CPU time:      0000.5447 seconds
+
+float array - wall clock:      0000.3460 seconds
+float ArrayList - wall clock:  0003.2920 seconds
+
+float array - CPU time:        0000.3388 seconds
+float ArrayList - CPU time:    0000.4486 seconds
+
+Run number: 1
+Fill the list: Number of elements: 5000000
+int array - wall clock:        0000.0640 seconds
+int ArrayList - wall clock:    0000.5270 seconds
+
+int array - CPU time:          0000.5270 seconds
+int ArrayList - CPU time:      0000.0784 seconds
+
+float array - wall clock:      0000.0580 seconds
+float ArrayList - wall clock:  0000.8310 seconds
+
+float array - CPU time:        0000.0573 seconds
+float ArrayList - CPU time:    0000.0676 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0650 seconds
+int ArrayList - wall clock:    0000.1900 seconds
+
+int array - CPU time:          0000.0650 seconds
+int ArrayList - CPU time:      0000.1129 seconds
+
+float array - wall clock:      0000.0590 seconds
+float ArrayList - wall clock:  0000.4150 seconds
+
+float array - CPU time:        0000.0590 seconds
+float ArrayList - CPU time:    0000.0844 seconds
+
+Run number: 2
+Fill the list: Number of elements: 5000000
+int array - wall clock:        0000.0520 seconds
+int ArrayList - wall clock:    0000.1760 seconds
+
+int array - CPU time:          0000.1760 seconds
+int ArrayList - CPU time:      0000.0991 seconds
+
+float array - wall clock:      0000.0530 seconds
+float ArrayList - wall clock:  0000.0570 seconds
+
+float array - CPU time:        0000.0528 seconds
+float ArrayList - CPU time:    0000.0574 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0550 seconds
+int ArrayList - wall clock:    0001.0610 seconds
+
+int array - CPU time:          0000.0556 seconds
+int ArrayList - CPU time:      0000.1366 seconds
+
+float array - wall clock:      0000.0520 seconds
+float ArrayList - wall clock:  0000.0790 seconds
+
+float array - CPU time:        0000.0519 seconds
+float ArrayList - CPU time:    0000.0793 seconds
+
+Run number: 3
+Fill the list: Number of elements: 5000000
+int array - wall clock:        0000.0520 seconds
+int ArrayList - wall clock:    0000.0620 seconds
+
+int array - CPU time:          0000.0620 seconds
+int ArrayList - CPU time:      0000.0619 seconds
+
+float array - wall clock:      0000.0530 seconds
+float ArrayList - wall clock:  0000.1260 seconds
+
+float array - CPU time:        0000.0527 seconds
+float ArrayList - CPU time:    0000.0607 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0530 seconds
+int ArrayList - wall clock:    0000.1660 seconds
+
+int array - CPU time:          0000.0529 seconds
+int ArrayList - CPU time:      0000.0800 seconds
+
+float array - wall clock:      0000.0520 seconds
+float ArrayList - wall clock:  0000.0730 seconds
+
+float array - CPU time:        0000.0518 seconds
+float ArrayList - CPU time:    0000.0728 seconds
+
+Run number: 4
+Fill the list: Number of elements: 5000000
+int array - wall clock:        0000.0520 seconds
+int ArrayList - wall clock:    0000.0590 seconds
+
+int array - CPU time:          0000.0590 seconds
+int ArrayList - CPU time:      0000.0586 seconds
+
+float array - wall clock:      0000.0540 seconds
+float ArrayList - wall clock:  0000.0590 seconds
+
+float array - CPU time:        0000.0538 seconds
+float ArrayList - CPU time:    0000.0588 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0520 seconds
+int ArrayList - wall clock:    0000.1060 seconds
+
+int array - CPU time:          0000.0524 seconds
+int ArrayList - CPU time:      0000.0801 seconds
+
+float array - wall clock:      0000.0520 seconds
+float ArrayList - wall clock:  0000.1910 seconds
+
+float array - CPU time:        0000.0522 seconds
+float ArrayList - CPU time:    0000.0736 seconds
+
+Run number: 5
+Fill the list: Number of elements: 5000000
+int array - wall clock:        0000.0570 seconds
+int ArrayList - wall clock:    0000.0650 seconds
+
+int array - CPU time:          0000.0650 seconds
+int ArrayList - CPU time:      0000.0648 seconds
+
+float array - wall clock:      0000.0620 seconds
+float ArrayList - wall clock:  0000.0730 seconds
+
+float array - CPU time:        0000.0613 seconds
+float ArrayList - CPU time:    0000.0724 seconds
+
+Increment elements in the list: 
+int array - wall clock:        0000.0640 seconds
+int ArrayList - wall clock:    0000.1080 seconds
+
+int array - CPU time:          0000.0620 seconds
+int ArrayList - CPU time:      0000.1070 seconds
+
+float array - wall clock:      0000.0540 seconds
+float ArrayList - wall clock:  0000.1840 seconds
+
+float array - CPU time:        0000.0546 seconds
+float ArrayList - CPU time:    0000.0804 seconds
+
